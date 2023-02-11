@@ -1,0 +1,31 @@
+img{
+    margin: 10px;
+}
+.container-fluid{
+    background: #222529;
+}
+.btn-outline-success{
+    margin: 5px;
+}
+#login{
+    color: white;
+    border-color: white;
+    margin: 10px;
+}
+#home{
+    color: white;
+    border-color: white;
+    margin: 10px;
+}
+#sign{
+    background-color: rgb(236, 180, 75);
+    border-color: #222529;
+    color: black;
+    margin: 10px;
+}
+h2{
+    color: white;
+}
+#gallary{
+    text-align: center;
+}
